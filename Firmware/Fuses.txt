@@ -1,0 +1,1 @@
+lock and fuse settings for ATMEGA644 microcontroller: Lock = 0xFC, Fuse low = 0xEF, Fuse high = 0xDF, Fuse ext = 0xFF
